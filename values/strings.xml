@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="tour_guide_title">Mumbai City Guide</string>
+    <string name="attraction_fragment_title">Attractions</string>
+    <string name="restaurants_fragment_title">Restaurants</string>
+    <string name="accomodation_fragment_title">Accomodation</string>
+    <string name="events_fragment_title">Events</string>
+</resources>

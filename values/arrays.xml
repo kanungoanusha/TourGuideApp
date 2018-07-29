@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_attraction_names">
+        <item>Chatrapati Shivaji Terminus</item>
+        <item>Marine Drive</item>
+        <item>Gateway of India</item>
+        <item>Bandra Worli Sea Link</item>
+        <item>Haji Ali Dargah </item>
+        <item>Bombay High Court</item>
+    </string-array>
+
+    <string-array name="list_attraction_addresses">
+        <item> Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001</item>
+        <item>Marine drive Mumbai , 400020</item>
+        <item>Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</item>
+        <item>Mount Mary, Bandra West, Mumbai, Maharashtra 400030</item>
+        <item>Dargah Rd, Haji Ali, Mumbai, Maharashtra</item>
+        <item>Fort, Mumbai, Maharashtra 400032</item>
+    </string-array>
+
+    <string-array name="list_attraction_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: 6:00-22:00</item>
+        <item>Opening hours: 10:00-17:00 except Sunday and gov holidays </item>
+    </string-array>
+
+    <array name="list_attraction_images">
+        <item>@drawable/chhatrapati_shivaji_terminus</item>
+        <item>@drawable/marine_drive</item>
+        <item>@drawable/gateway_of_india</item>
+        <item>@drawable/sea_link_bandra_worli</item>
+        <item>@drawable/haji_ali_dargah1</item>
+        <item>@drawable/bombay_high_court</item>
+    </array>
+
+    <string-array name="list_event_names">
+        <item>Mood Indigo</item>
+        <item>Strawberry Festival</item>
+        <item>Flamingo Festival</item>
+        <item>Kala Ghoda Festival</item>
+        <item>Elephanta Festival</item>
+        <item>Bangana Festival</item>
+    </string-array>
+
+    <string-array name="list_event_addresses">
+        <item>Main Gate Road, Powai, Mumbai, Maharashtra 400076</item>
+        <item>St. John Baptist Road, Bandra West, Mumbai </item>
+        <item>MPT, Sewari, Mumbai, Maharashtra 400015</item>
+        <item>Fort, Mumbai, Maharashtra 400001</item>
+        <item>Gharapuri, Maharashtra 400094
+Elephanta Caves, Address</item>
+        <item>Malabar hills ,Mumbai</item>
+    </string-array>
+
+    <string-array name="list_event_opening_hours">
+        <item>2018. December.</item>
+        <item>2018. March.</item>
+        <item>2018. April.</item>
+        <item>2018. February.</item>
+        <item>2018. February.</item>
+        <item>2018. February.</item>
+    </string-array>
+
+    <array name="list_event_images">
+        <item>@drawable/mood_indigo</item>
+        <item>@drawable/strawberry_festival</item>
+        <item>@drawable/flamingo_festival</item>
+        <item>@drawable/kala_ghoda_arts_festival</item>
+        <item>@drawable/elephanta_festival</item>
+        <item>@drawable/banganga_festival</item>
+    </array>
+
+    <string-array name="list_accomodation_names">
+        <item>The Taj Hotel </item>
+        <item>Leela </item>
+        <item>Marine Plaza</item>
+        <item>Sahara Hotel</item>
+        <item>Grand Hyaat</item>
+        <item>Trident</item>
+    </string-array>
+
+    <string-array name="list_accomodation_addresses">
+        <item>Colaba Mumbai Maharashtra.</item>
+        <item>Andheri Kurla Road, Sahar, Andheri East, Mumbai, Maharashtra 400059.</item>
+        <item>29, Marine Dr, New Marine Lines, Churchgate, Mumbai, Maharashtra 400020.</item>
+        <item>Opp Domestic Airport, Mumbai, Maharashtra 400099</item>
+        <item>Bandra Kurla Complex Vicinity, Off Western Express Highway, Santacruz East, Mumbai, Maharashtra 400055.</item>
+        <item>CR 2 Nariman Point, Netaji Subhash Chandra Bose Road, Mumbai, Maharashtra 400021.</item>
+    </string-array>
+
+    <string-array name="list_accomodation_opening_hours">
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours:Open 24 hours </item>
+        <item>Opening hours: Open 24 hours</item>
+        <item>Opening hours: Open 24 hours</item>
+    </string-array>
+
+    <array name="list_accomodation_images">
+        <item>@drawable/taj_hotel</item>
+        <item>@drawable/leela_mumbai</item>
+        <item>@drawable/marine_plaza</item>
+        <item>@drawable/sahara_hotel</item>
+        <item>@drawable/grand_hyaat</item>
+        <item>@drawable/trident</item>
+    </array>
+
+    <string-array name="list_restaurant_names">
+        <item>Tamasha</item>
+        <item>Lake View</item>
+        <item>Ark Bar</item>
+        <item>Khyber</item>
+        <item>Leopold Cafe</item>
+        <item>By The Mekong</item>
+    </string-array>
+
+    <string-array name="list_restaurant_addresses">
+        <item>Pandurang Budhkar Marg, Lower Parel, Mumbai, Maharashtra 400013</item>
+        <item>Renaissance Mumbai Convention Centre Hotel,3B, Near Chinmayanand Ashram, Powai, Mumbai</item>
+        <item>Sea Princess Hotel, Juhu Tara Rd, Juhu, Mumbai, Maharashtra 400049.</item>
+        <item>145, M G Road, Fort, Mumbai, Maharashtra 400001.</item>
+        <item>Opp Olympia Coffee House, Shahid Bhagat Singh Road, Colaba Causeway, Mumbai, Maharashtra 400001.</item>
+        <item>The St. Regis Mumbai, 462, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013
+</item>
+    </string-array>
+
+    <string-array name="list_restaurant_opening_hours">
+        <item>Opening Hours: 11:00-23:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 11:00-22:00</item>
+        <item>Opening hours: 10:00-22:00</item>
+        <item>Opening hours: 9:00-21:00</item>
+        <item>Opening hours: 11:00-24:00</item>
+    </string-array>
+
+    <array name="list_restaurant_images">
+        <item>@drawable/tamasha</item>
+        <item>@drawable/lake_view</item>
+        <item>@drawable/ark_bar</item>
+        <item>@drawable/khyber</item>
+        <item>@drawable/leopold_cafe</item>
+        <item>@drawable/by_the_mekong</item>
+    </array>
+</resources>
