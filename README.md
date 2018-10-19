@@ -15,3 +15,5 @@ Sixth App in Udacity's Android Basics Nanodegree by Google .This app gives infor
 
 
 <img src="https://user-images.githubusercontent.com/29801319/44382821-22786c80-a534-11e8-8a9f-f1a03362fbb5.png" width="250" heigth="400" align="left">
+
+Udacity, Inc. is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs).
